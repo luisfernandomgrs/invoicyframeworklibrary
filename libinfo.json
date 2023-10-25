@@ -4,14 +4,14 @@
 			"name": "InvoiCyFrameworkTradutor.dll",
 			"version": "01.15.01",
 			"release_date": "2023-10-16",
-			"download_url": "https://example.com/downloads/example.dll",
+			"download_url": "https://raw.githubusercontent.com/luisfernandomgrs/invoicyframeworklibrary/main/InvoiCyFrameworkTradutor.dll",
 			"hash": "2611EF37ED5CDE66369E8EFC139E81F9FCFDA889A44DBF613DC0D6ACFFE5AA10"
 		},
 		{
 			"name": "InvoiCyFramework.dll",
 			"version": "01.37.14",
 			"release_date": "2023-10-16",
-			"download_url": "https://example.com/downloads/another.dll",
+			"download_url": "https://raw.githubusercontent.com/luisfernandomgrs/invoicyframeworklibrary/main/InvoiCyFramework.dll",
 			"hash": "54D62E9812ECCBFBA2EE87AE59D95314D74671CCBB5137DA003CAB01812EA8BF"
 		}
 	]
